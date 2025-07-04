@@ -3,7 +3,7 @@
 ----------------
 
 ## Introducción
-Este módulo está diseñado para proporcionarle una comprensión profunda de Microsoft Excel, desde los fundamentos hasta las técnicas avanzadas. A lo largo de este módulo, explorará diversas funciones, herramientas y técnicas que le permitirán manejar datos de manera eficiente y efectiva.
+Este repo está diseñado para proporcionarle una comprensión profunda de Microsoft Excel, desde los fundamentos hasta las técnicas avanzadas enfocado a Análisis de Datos. A lo largo de este repo, explorarás diversas funciones, herramientas y técnicas que le permitirán manejar datos de manera eficiente y efectiva.
 
 ## Contenido del Módulo
 
