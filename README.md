@@ -45,6 +45,3 @@ Este repo está diseñado para proporcionarle una comprensión profunda de Micro
 ### 7.0 Macros
 - Grabación de macros
 - Edición de macros
-
-## Conclusión
-Este módulo le proporcionará una base sólida en el uso de Excel, desde las funciones básicas hasta las técnicas avanzadas de análisis y visualización de datos. Al finalizar este módulo, estará equipado con las habilidades necesarias para manejar datos de manera eficiente y efectiva en Excel.
