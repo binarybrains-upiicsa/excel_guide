@@ -17,6 +17,7 @@ Este repo está diseñado para proporcionarle una comprensión profunda de Micro
 - Funciones lógicas (SI, Y, O)
 - Funciones de búsqueda y referencia (BUSCARV, INDICE, COINCIDIR)
 - Funciones de texto, fecha y hora, estadísticas (PROMEDIO, MEDIANA, DESVEST)
+- [ejemplo](https://github.com/binarybrains-upiicsa/excel_guide/blob/main/2.0%20Funciones%20Avanzadas.xlsx)
 
 ### 3.0 Análisis de Datos
 - Ordenar y filtrar datos
