@@ -7,15 +7,13 @@ Este repo está diseñado para proporcionarle una comprensión profunda de Micro
 
 ## Contenido del Módulo
 
-###  [1.0 Fundamentos de Excel][etiqueta]
-
-[etiqueta]: https://github.com/binarybrains-upiicsa/excel_guide/blob/main/1.0%20Fundamentos%20de%20Excel.md
+###  [1.0 Fundamentos de Excel](https://github.com/binarybrains-upiicsa/excel_guide/blob/main/1.0%20Fundamentos%20de%20Excel.md)
 
 - Formato de celdas
 - Fórmulas básicas
 - Funciones
 
-### 2.0 Funciones Avanzadas
+### [2.0 Funciones Avanzadas](https://github.com/binarybrains-upiicsa/excel_guide/blob/main/2.0%20Funciones%20Avanzadas.md)
 - Funciones lógicas (SI, Y, O)
 - Funciones de búsqueda y referencia (BUSCARV, INDICE, COINCIDIR)
 - Funciones de texto, fecha y hora, estadísticas (PROMEDIO, MEDIANA, DESVEST)
