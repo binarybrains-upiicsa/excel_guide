@@ -7,7 +7,10 @@ Este repo está diseñado para proporcionarle una comprensión profunda de Micro
 
 ## Contenido del Módulo
 
-### 1.0 Fundamentos de Excel
+###  [1.0 Fundamentos de Excel][etiqueta]
+
+[etiqueta]: https://github.com/binarybrains-upiicsa/excel_guide/blob/main/1.0%20Fundamentos%20de%20Excel.md
+
 - Formato de celdas
 - Fórmulas básicas
 - Funciones
