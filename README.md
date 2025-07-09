@@ -19,7 +19,7 @@ Este repo está diseñado para proporcionarle una comprensión profunda de Micro
 - Funciones de texto, fecha y hora, estadísticas (PROMEDIO, MEDIANA, DESVEST)
 - [ejemplo](https://github.com/binarybrains-upiicsa/excel_guide/blob/main/2.0%20Funciones%20Avanzadas.xlsx)
 
-### 3.0 Análisis de Datos
+### [3.0 Análisis de Datos](3.0%20Análisis%20de%20Datos.md)
 - Ordenar y filtrar datos
 - Subtotales
 - Validación de datos
